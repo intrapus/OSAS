@@ -1,2 +1,2 @@
 # OSAS
-Open Source AppSEC
+Open Source AppSec
